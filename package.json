@@ -1,0 +1,45 @@
+{
+  "name": "luna-cycle-app",
+  "version": "2.5.0",
+  "private": true,
+  "main": "index.ts",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "typecheck": "tsc --noEmit",
+    "test": "node --import tsx --test tests/*.test.ts",
+    "format": "prettier --write App.tsx index.ts src tests package.json app.json tsconfig.json",
+    "format:check": "prettier --check App.tsx index.ts src tests package.json app.json tsconfig.json",
+    "backend": "bash scripts/backend.sh serve",
+    "rag:index": "bash scripts/backend.sh index",
+    "rag:update": "bash scripts/backend.sh update",
+    "rag:check": "bash scripts/backend.sh evaluate",
+    "ai:doctor": "bash scripts/training.sh doctor",
+    "ai:data": "bash scripts/backend.sh training-data",
+    "ai:prepare-model": "bash scripts/training.sh prepare-model",
+    "ai:train": "bash scripts/training.sh train",
+    "ai:evaluate": "bash scripts/training.sh evaluate",
+    "ai:serve": "bash scripts/training.sh serve"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "2.2.0",
+    "expo": "~57.0.26",
+    "expo-build-properties": "~57.0.22",
+    "expo-document-picker": "~57.0.3",
+    "expo-file-system": "~57.0.7",
+    "expo-secure-store": "~57.0.4",
+    "expo-sharing": "~57.0.22",
+    "lucide-react-native": "^0.577.0",
+    "react": "19.2.3",
+    "react-native": "0.86.3",
+    "react-native-safe-area-context": "~5.7.0",
+    "react-native-svg": "15.15.4"
+  },
+  "devDependencies": {
+    "@types/react": "~19.2.0",
+    "prettier": "^3.6.2",
+    "tsx": "^4.20.6",
+    "typescript": "~5.9.2"
+  }
+}

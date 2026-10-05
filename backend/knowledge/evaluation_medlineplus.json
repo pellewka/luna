@@ -1,0 +1,218 @@
+[
+  {
+    "question": "Какие бывают способы контрацепции?",
+    "expected_url": "https://medlineplus.gov/birthcontrol.html"
+  },
+  {
+    "question": "Что означает результат мазка на цитологию?",
+    "expected_url": "https://medlineplus.gov/cervicalcancerscreening.html"
+  },
+  {
+    "question": "Что такое ВПЧ?",
+    "expected_url": "https://medlineplus.gov/hpv.html"
+  },
+  {
+    "question": "Как проходит маммография?",
+    "expected_url": "https://medlineplus.gov/mammography.html"
+  },
+  {
+    "question": "Что означает киста яичника?",
+    "expected_url": "https://medlineplus.gov/ovariancysts.html"
+  },
+  {
+    "question": "Что такое миома матки?",
+    "expected_url": "https://medlineplus.gov/uterinefibroids.html"
+  },
+  {
+    "question": "Почему бывают приливы в перименопаузе?",
+    "expected_url": "https://medlineplus.gov/menopause.html"
+  },
+  {
+    "question": "Расскажи о ранней недостаточности яичников",
+    "expected_url": "https://medlineplus.gov/primaryovarianinsufficiency.html"
+  },
+  {
+    "question": "Что такое гестационный диабет?",
+    "expected_url": "https://medlineplus.gov/diabetesandpregnancy.html"
+  },
+  {
+    "question": "Что такое гипотиреоз?",
+    "expected_url": "https://medlineplus.gov/hypothyroidism.html"
+  },
+  {
+    "question": "Что означает тиреотоксикоз?",
+    "expected_url": "https://medlineplus.gov/hyperthyroidism.html"
+  },
+  {
+    "question": "Зачем исследуют щитовидную железу?",
+    "expected_url": "https://medlineplus.gov/thyroidtests.html"
+  },
+  {
+    "question": "Расскажи про послеродовую депрессию",
+    "expected_url": "https://medlineplus.gov/postpartumdepression.html"
+  },
+  {
+    "question": "Что записать при подготовке к беременности?",
+    "expected_url": "https://medlineplus.gov/preconceptioncare.html"
+  },
+  {
+    "question": "Что происходит при грудном вскармливании?",
+    "expected_url": "https://medlineplus.gov/breastfeeding.html"
+  },
+  {
+    "question": "Что такое воспаление придатков?",
+    "expected_url": "https://medlineplus.gov/pelvicinflammatorydisease.html"
+  },
+  {
+    "question": "Что такое вагиноз?",
+    "expected_url": "https://medlineplus.gov/vaginitis.html"
+  },
+  {
+    "question": "Откуда может взяться молочница?",
+    "expected_url": "https://medlineplus.gov/yeastinfections.html"
+  },
+  {
+    "question": "Что такое цистит?",
+    "expected_url": "https://medlineplus.gov/urinarytractinfections.html"
+  },
+  {
+    "question": "Как обследуют тазовое дно?",
+    "expected_url": "https://medlineplus.gov/pelvicfloordisorders.html"
+  },
+  {
+    "question": "Что означает боль при сексе?",
+    "expected_url": "https://medlineplus.gov/sexualproblemsinwomen.html"
+  },
+  {
+    "question": "Какие бывают половые инфекции?",
+    "expected_url": "https://medlineplus.gov/sexuallytransmittedinfections.html"
+  },
+  {
+    "question": "Расскажи о хламидиозе",
+    "expected_url": "https://medlineplus.gov/chlamydiainfections.html"
+  },
+  {
+    "question": "Что означает трихомониаз?",
+    "expected_url": "https://medlineplus.gov/trichomoniasis.html"
+  },
+  {
+    "question": "Что такое экстракорпоральное оплодотворение?",
+    "expected_url": "https://medlineplus.gov/assistedreproductivetechnology.html"
+  },
+  {
+    "question": "Не получается забеременеть, что такое бесплодие?",
+    "expected_url": "https://medlineplus.gov/infertility.html"
+  },
+  {
+    "question": "Что такое гистерэктомия?",
+    "expected_url": "https://medlineplus.gov/hysterectomy.html"
+  },
+  {
+    "question": "Что происходит после кесарева сечения?",
+    "expected_url": "https://medlineplus.gov/cesareandelivery.html"
+  },
+  {
+    "question": "Что такое пренатальный скрининг?",
+    "expected_url": "https://medlineplus.gov/prenataltesting.html"
+  },
+  {
+    "question": "Что такое остеопороз?",
+    "expected_url": "https://medlineplus.gov/osteoporosis.html"
+  },
+  {
+    "question": "Расскажи про заболевания гипофиза",
+    "expected_url": "https://medlineplus.gov/pituitarydisorders.html"
+  },
+  {
+    "question": "Объясни синдром Кушинга",
+    "expected_url": "https://medlineplus.gov/cushingssyndrome.html"
+  },
+  {
+    "question": "Что такое фолиевая кислота?",
+    "expected_url": "https://medlineplus.gov/folicacid.html"
+  },
+  {
+    "question": "Для чего нужен витамин D?",
+    "expected_url": "https://medlineplus.gov/vitamind.html"
+  },
+  {
+    "question": "Что входит в общий анализ крови?",
+    "expected_url": "https://medlineplus.gov/bloodcounttests.html"
+  },
+  {
+    "question": "Что такое инсулинорезистентность?",
+    "expected_url": "https://medlineplus.gov/diabetestype2.html"
+  },
+  {
+    "question": "Расскажи о мигрени с аурой",
+    "expected_url": "https://medlineplus.gov/migraine.html"
+  },
+  {
+    "question": "Что такое бессонница?",
+    "expected_url": "https://medlineplus.gov/insomnia.html"
+  },
+  {
+    "question": "Объясни синдром раздраженного кишечника",
+    "expected_url": "https://medlineplus.gov/irritablebowelsyndrome.html"
+  },
+  {
+    "question": "Что такое расстройства пищевого поведения?",
+    "expected_url": "https://medlineplus.gov/eatingdisorders.html"
+  },
+  {
+    "question": "Как описывают выпадение волос?",
+    "expected_url": "https://medlineplus.gov/hairloss.html"
+  },
+  {
+    "question": "Расскажи об акне",
+    "expected_url": "https://medlineplus.gov/acne.html"
+  },
+  {
+    "question": "What is celiac disease?",
+    "expected_url": "https://medlineplus.gov/celiacdisease.html"
+  },
+  {
+    "question": "What is asthma?",
+    "expected_url": "https://medlineplus.gov/asthma.html"
+  },
+  {
+    "question": "What is multiple sclerosis?",
+    "expected_url": "https://medlineplus.gov/multiplesclerosis.html"
+  },
+  {
+    "question": "What is rheumatoid arthritis?",
+    "expected_url": "https://medlineplus.gov/rheumatoidarthritis.html"
+  },
+  {
+    "question": "What is eczema?",
+    "expected_url": "https://medlineplus.gov/eczema.html"
+  },
+  {
+    "question": "How is endometriosis described?",
+    "expected_url": "https://medlineplus.gov/endometriosis.html"
+  },
+  {
+    "question": "Как купить биткоин?",
+    "expect_empty": true
+  },
+  {
+    "question": "Напиши код игры на Python",
+    "expect_empty": true
+  },
+  {
+    "question": "Какая погода в Москве?",
+    "expect_empty": true
+  },
+  {
+    "question": "How do I deploy Docker?",
+    "expect_empty": true
+  },
+  {
+    "question": "Какая столица Франции?",
+    "expect_empty": true
+  },
+  {
+    "question": "Привет!",
+    "expect_empty": true
+  }
+]

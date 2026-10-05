@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Луна — в своём ритме",
+    "slug": "luna-cycle",
+    "version": "2.5.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "luna",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "app.luna.cycle",
+      "infoPlist": {
+        "NSLocalNetworkUsageDescription": "Подключение к вашему серверу помощника в локальной сети."
+      }
+    },
+    "android": {
+      "package": "app.luna.cycle",
+      "predictiveBackGestureEnabled": true
+    },
+    "icon": "./assets/icon.png",
+    "plugins": [
+      [
+        "expo-build-properties",
+        {
+          "ios": {
+            "enableSceneSupport": true
+          }
+        }
+      ],
+      "expo-secure-store"
+    ]
+  }
+}

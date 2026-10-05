@@ -1,0 +1,70 @@
+[
+  {
+    "question": "Как считать первый день цикла?",
+    "expected_id": "cycle-counting"
+  },
+  {
+    "question": "Какова длина цикла?",
+    "expected_id": "cycle-counting"
+  },
+  {
+    "question": "Можно по календарю точно узнать овуляцию?",
+    "expected_id": "ovulation"
+  },
+  {
+    "question": "Что такое ПМС?",
+    "expected_id": "pms"
+  },
+  {
+    "question": "Перед месячными меняется настроение",
+    "expected_id": "pms"
+  },
+  {
+    "question": "Как вести дневник симптомов?",
+    "expected_id": "symptom-diary"
+  },
+  {
+    "question": "Как подготовить заметки к приему гинеколога?",
+    "expected_id": "symptom-diary"
+  },
+  {
+    "question": "Что такое эндометриоз?",
+    "expected_id": "endometriosis"
+  },
+  {
+    "question": "Объясни синдром поликистозных яичников",
+    "expected_id": "pcos"
+  },
+  {
+    "question": "Ферритин и железодефицитная анемия",
+    "expected_id": "iron"
+  },
+  {
+    "question": "Что означает референсный интервал анализа?",
+    "expected_id": "lab-results"
+  },
+  {
+    "question": "ТТГ выше нормы",
+    "expected_id": "lab-results"
+  },
+  {
+    "question": "Месячные стали нерегулярными",
+    "expected_id": "irregular-periods"
+  },
+  {
+    "question": "Обильное кровотечение между менструациями",
+    "expected_id": "heavy-bleeding"
+  },
+  {
+    "question": "Как спиронолактон может влиять на месячные?",
+    "expected_id": "drug-spironolactone"
+  },
+  {
+    "question": "Как рисперидон может влиять на месячные?",
+    "expected_id": "drug-risperidone"
+  },
+  {
+    "question": "Как левоноргестрел для экстренной контрацепции может влиять на месячные?",
+    "expected_id": "drug-levonorgestrel-ec"
+  }
+]

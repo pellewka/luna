@@ -1,0 +1,28 @@
+{
+  "purpose": "Supervised educational answers with source IDs; not clinical diagnosis training",
+  "clinical_review": "pending",
+  "patient_records_used": false,
+  "split_method": "SHA256 of source URL; all chunks of a document stay in the same split",
+  "languages": {
+    "ru": 25,
+    "en": 240
+  },
+  "source_documents": 134,
+  "counts": {
+    "train": 224,
+    "valid": 23,
+    "test": 18
+  },
+  "files": {
+    "train": "a68a44726bc23d87788c756bda43e3c93ad7ec799ff8a5c3225d3c476a7fa45b",
+    "valid": "870bd83b081acb36e684c07e9711a5e03b2c4caa1971c74184dd0936727daa15",
+    "test": "81997232e446a7a83b00e6d11488999397ae2ed1a6fe0c8470bcf1fc954aca8b"
+  },
+  "sources": {
+    "articles.json": "42ec185cfcc0a5e91ada08f9dc4fb8803313be823b327fec447fc6c06e3a5b52",
+    "medlineplus.json": "05fbde4620d63acefa41c66a2fe9d063f19092b72d7299bfb5af1f6366679364",
+    "topic_aliases.json": "c69cd1d21a79f4473bb805484ffc4617813a823cba26f6770959d19e74c6fd00"
+  },
+  "terms": "https://medlineplus.gov/about/using/usingcontent/",
+  "note": "English references retain English targets; Russian references retain Russian targets. Synthetic contexts are not patient records."
+}
